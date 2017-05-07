@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+    white-space: nowrap;
+    font-family: serif;
+}
+td {
+    position: relative;
+    padding: 0.25em;
+    text-align: center;
+}
+td span {
+    display: block;
+}
+.tile {
+    display: inline-block;
+    height: 2.3em;
+    width: 1.6em;
+    background-size: cover;
+}
+.mw-editsection {
+    display: none;
+}
+dd {
+    -webkit-margin-start: 0;
+}
+
