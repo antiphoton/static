@@ -2,12 +2,11 @@ table {
     border-collapse: collapse;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid silver;
     white-space: nowrap;
     font-family: serif;
 }
 td {
-    position: relative;
     padding: 0.25em;
     text-align: center;
 }
